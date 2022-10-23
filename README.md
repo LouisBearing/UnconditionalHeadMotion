@@ -12,5 +12,8 @@ We demonstrate experimentally the relevance of the proposed architecture and com
 ![uncond_head_mot](https://user-images.githubusercontent.com/36541517/197400808-c6094353-4bb7-4e49-8dd8-8f325aa4539a.png)
 
 ## Demo
+<!-- 
+![dem_rnn_cf_8_2_colors](https://user-images.githubusercontent.com/36541517/197400986-43a91f7f-369d-4ea4-b2d8-664d592f65c7.gif) 
+![dem_rnn_cf_8_3_colors](https://user-images.githubusercontent.com/36541517/197404595-38292059-8804-479f-9850-1e7031b7b1bb.gif) -->
+<img src="[drawing.jpg](https://user-images.githubusercontent.com/36541517/197400986-43a91f7f-369d-4ea4-b2d8-664d592f65c7.gif)" alt="drawing" width="40" height="40"/>
 
-![dem_rnn_cf_8_2_colors](https://user-images.githubusercontent.com/36541517/197400986-43a91f7f-369d-4ea4-b2d8-664d592f65c7.gif)
