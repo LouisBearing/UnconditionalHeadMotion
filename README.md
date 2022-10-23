@@ -1,4 +1,4 @@
-# UnconditionalHeadMotion
+# Autoregressive GAN for Semantic Unconditional Head Motion Generation
 
 ## Abstract
 
