@@ -34,6 +34,9 @@ We demonstrate experimentally the relevance of the proposed architecture and com
 <img src="media/git_demo_vis/actor_vox/dem_actor_21_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/actor_vox/dem_actor_vox4work_22_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/actor_vox/dem_actor_vox4work_3_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/actor_vox/dem_actor_vox4work_57_colors.gif" alt="drawing" width="200"/>
 
 ### SUHMo in-the-wild
+
+<img src="media/demo_img/Legend.png" alt="drawing" width="500"/>
+
 <img src="media/demo_img/audrey.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_audrey.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_audrey.gif" alt="drawing" width="140"/> <img src="media/demo_img/captain.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_captain2.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_captain2.gif" alt="drawing" width="140"/>
 
 <img src="media/demo_img/cesi.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_cesi.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_cesi.gif" alt="drawing" width="140"/> <img src="media/demo_img/jon.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_john.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_john.gif" alt="drawing" width="140"/>
@@ -47,6 +50,10 @@ We demonstrate experimentally the relevance of the proposed architecture and com
 ## References
 
 #### Face Alignment
+_A. Bulat and G. Tzimiropoulos, “How far are we from solving the 2d & 3d face alignment problem? (and a dataset of 230,000 3d facial landmarks),” in ICCV, 2017._
 #### ACTOR
+_M. Petrovich, M. J Black, and G. Varol, “Action-conditioned 3d human motion synthesis with transformer vae,” in ICCV, 2021._
 #### CONFER DB
+_C. Georgakis, Y. Panagakis, S. Zafeiriou, and M. Pantic, “The conflict escalation resolution (confer) database,” Image and Vision Computing, vol. 65, 2017._
 #### VoxCeleb2
+_J. S. Chung, A. Nagrani, and A. Zisserman, “Voxceleb2: Deep speaker recognition,” in INTERSPEECH, 2018._
