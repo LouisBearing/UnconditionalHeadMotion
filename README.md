@@ -15,13 +15,13 @@ We demonstrate experimentally the relevance of the proposed architecture and com
 
 Results presented below consist in generating **120 frames** from a **single** reference image.
 
-### SUHMo-RNN - Training on CONFER DB
+### SUHMo-RNN (Training on CONFER DB)
 <p align="center">
 <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_2_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_9_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_1_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_22_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_24_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_27_colors.gif" alt="drawing" width="200"/>
 <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_37_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_41_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_45_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_49_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_51_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_6_colors.gif" alt="drawing" width="200"/>
  </p>
 
-### SUHMo-Transformer - Training on VoxCeleb2
+### SUHMo-Transformer (Training on VoxCeleb2)
 
 <p align="center">
 <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_7_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_22_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_24_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_26_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_28_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_29_colors.gif" alt="drawing" width="200"/>
