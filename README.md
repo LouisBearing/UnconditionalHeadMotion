@@ -9,6 +9,8 @@ We demonstrate experimentally the relevance of the proposed architecture and com
 
 ## Architecture overview
 
+SUHMo is a framework that can be implemented in several forms. Below are the proposed LSTM and Transformer variants of our model.
+
 ![uncond_head_mot](https://user-images.githubusercontent.com/36541517/197400808-c6094353-4bb7-4e49-8dd8-8f325aa4539a.png)
 
 ## Demo
