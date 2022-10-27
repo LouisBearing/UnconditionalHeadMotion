@@ -46,9 +46,9 @@ Several outputs can be obtained from the same reference image. See below for an 
 
 <p align="center"><img src="media/demo_img/Legend.png" alt="drawing" width="500"/></p>
 
-<p align="center" white-space="no-wrap" overflow-x="auto">
+<div white-space="no-wrap" overflow-x="auto">
 <img src="media/demo_img/audrey.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_audrey.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_audrey.gif" alt="drawing" width="140"/> <img src="media/demo_img/captain.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_captain2.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_captain2.gif" alt="drawing" width="140"/>
- </p>
+ </div>
 
 <img src="media/demo_img/cesi.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_cesi.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_cesi.gif" alt="drawing" width="140"/> <img src="media/demo_img/jon.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_john.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_john.gif" alt="drawing" width="140"/>
 
