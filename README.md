@@ -46,16 +46,22 @@ Several outputs can be obtained from the same reference image. See below for an 
 
 <p align="center"><img src="media/demo_img/Legend.png" alt="drawing" width="500"/></p>
 
-<!-- <div white-space="no-wrap" overflow-x="auto"> -->
+<div white-space="no-wrap" overflow-x="auto">
 <img src="media/demo_img/audrey.png" alt="drawing" width="200"/><img src="media/demo_img/img2seq_rnn_1/moving_audrey.gif" alt="drawing" width="140"/><img src="media/demo_img/img2seq_rnn_2/moving_audrey.gif" alt="drawing" width="140"/><img src="media/demo_img/captain.png" alt="drawing" width="200"/><img src="media/demo_img/img2seq_rnn_1/moving_captain2.gif" alt="drawing" width="140"/><img src="media/demo_img/img2seq_rnn_2/moving_captain2.gif" alt="drawing" width="140"/>
-<!--  </div> -->
+ </div>
 
+<p align="center">
 <img src="media/demo_img/cesi.png" alt="drawing" width="200"/><img src="media/demo_img/img2seq_rnn_1/moving_cesi.gif" alt="drawing" width="140"/><img src="media/demo_img/img2seq_rnn_2/moving_cesi.gif" alt="drawing" width="140"/><img src="media/demo_img/jon.png" alt="drawing" width="200"/><img src="media/demo_img/img2seq_rnn_1/moving_john.gif" alt="drawing" width="140"/><img src="media/demo_img/img2seq_rnn_2/moving_john.gif" alt="drawing" width="140"/>
-
+</p>
+ 
+<p align="center">
 <img src="media/demo_img/monalisa.png" alt="drawing" width="200"/><img src="media/demo_img/img2seq_rnn_1/moving_monalisa2.gif" alt="drawing" width="140"/><img src="media/demo_img/img2seq_rnn_2/moving_monalisa2.gif" alt="drawing" width="140"/><img src="media/demo_img/morgan.png" alt="drawing" width="200"/><img src="media/demo_img/img2seq_rnn_1/moving_morgan.gif" alt="drawing" width="140"/><img src="media/demo_img/img2seq_rnn_2/moving_morgan.gif" alt="drawing" width="140"/>
+</p>
 
+<p align="center">
 <img src="media/demo_img/paint.png" alt="drawing" width="200"/><img src="media/demo_img/img2seq_rnn_1/moving_paint1.gif" alt="drawing" width="140"/><img src="media/demo_img/img2seq_rnn_2/moving_paint1.gif" alt="drawing" width="140"/><img src="media/demo_img/statue.png" alt="drawing" width="200"/><img src="media/demo_img/img2seq_rnn_1/moving_statue2.gif" alt="drawing" width="140"/><img src="media/demo_img/img2seq_rnn_2/moving_statue2.gif" alt="drawing" width="140"/>
-
+</p>
+ 
 ## Citation
 
 ## References
