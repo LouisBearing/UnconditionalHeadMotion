@@ -41,3 +41,12 @@ We demonstrate experimentally the relevance of the proposed architecture and com
 <img src="media/demo_img/monalisa.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_monalisa2.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_monalisa2.gif" alt="drawing" width="140"/> <img src="media/demo_img/morgan.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_morgan.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_morgan.gif" alt="drawing" width="140"/>
 
 <img src="media/demo_img/paint.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_paint1.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_paint1.gif" alt="drawing" width="140"/> <img src="media/demo_img/statue.png" alt="drawing" width="200"/> <img src="media/demo_img/img2seq_rnn_1/moving_statue2.gif" alt="drawing" width="140"/> <img src="media/demo_img/img2seq_rnn_2/moving_statue2.gif" alt="drawing" width="140"/>
+
+## Citation
+
+## References
+
+#### Face Alignment
+#### ACTOR
+#### CONFER DB
+#### VoxCeleb2
