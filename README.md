@@ -16,7 +16,7 @@ We demonstrate experimentally the relevance of the proposed architecture and com
 In the results presented below **120 frames** are generated from a **single** reference image.
 
 ### SUHMo-RNN (Training on CONFER DB)
-<p align="center">
+<p align="center" white-space="no-wrap">
 <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_9_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_2_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_1_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_22_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_24_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_27_colors.gif" alt="drawing" width="200"/>
 <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_37_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_41_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_45_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_49_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_51_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_6_colors.gif" alt="drawing" width="200"/>
  </p>
