@@ -9,8 +9,8 @@ import time
 import librosa
 import pickle
 
-path_to_mp4 = r'D:\vox_celeb\dev\mp4'
-path_to_preprocess = r'C:\Users\laeri\VidGen\data\preprocessed_VC2'
+path_to_mp4 = %%PATH_TO_MP4%%
+path_to_preprocess = %%PATH_TO_PREPROCESSED_DATA%
 
 K = 8
 max_vid_per_folder = 5
