@@ -68,6 +68,7 @@ Several outputs can be obtained from the same reference image. See below for an 
 Incoming...
 
 ## Citation
+```
 @misc{https://doi.org/10.48550/arxiv.2211.00987,
   doi = {10.48550/ARXIV.2211.00987},
   url = {https://arxiv.org/abs/2211.00987},
@@ -78,6 +79,7 @@ Incoming...
   year = {2022},
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
+```
 
 ## References
 
