@@ -1,4 +1,4 @@
-# Autoregressive GAN for Semantic Unconditional Head Motion Generation (SUHMo)
+# Autoregressive GAN for Semantic Unconditional Head Motion Generation (SUHMo) [Paper](https://arxiv.org/pdf/2211.00987.pdf)
 
 ## Abstract
 
