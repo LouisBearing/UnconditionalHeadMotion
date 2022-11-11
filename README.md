@@ -1,6 +1,6 @@
-# Autoregressive GAN for Semantic Unconditional Head Motion Generation (SUHMo) [Paper](https://arxiv.org/pdf/2211.00987.pdf)
+# Autoregressive GAN for Semantic Unconditional Head Motion Generation (SUHMo)
 
-## Abstract
+## Abstract [[Paper](https://arxiv.org/pdf/2211.00987.pdf)]
 
 We address the task of unconditional head motion generation to animate still human faces in a low-dimensional semantic space.
 Deviating from talking head generation conditioned on audio that seldom puts emphasis on realistic head motions, we devise a GAN-based architecture that allows obtaining rich head motion sequences while avoiding known caveats associated with GANs.
@@ -68,7 +68,16 @@ Several outputs can be obtained from the same reference image. See below for an 
 Incoming...
 
 ## Citation
-Incoming...
+@misc{https://doi.org/10.48550/arxiv.2211.00987,
+  doi = {10.48550/ARXIV.2211.00987},
+  url = {https://arxiv.org/abs/2211.00987},
+  author = {Airale, Louis and Alameda-Pineda, Xavier and Lathuilière, Stéphane and Vaufreydaz, Dominique},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Autoregressive GAN for Semantic Unconditional Head Motion Generation},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
 
 ## References
 
