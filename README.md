@@ -7,13 +7,7 @@ Deviating from talking head generation conditioned on audio that seldom puts emp
 Namely, the autoregressive generation of incremental outputs ensures smooth trajectories, while a multi-scale discriminator on input pairs drives generation toward better handling of high and low frequency signals and less mode collapse.
 We demonstrate experimentally the relevance of the proposed architecture and compare with models that showed state-of-the-art performances on similar tasks. 
 
-## Architecture overview
-
-SUHMo is a framework that can be implemented in several forms. Below are the proposed LSTM and Transformer variants of our model.
-
-![uncond_head_mot](https://user-images.githubusercontent.com/36541517/197400808-c6094353-4bb7-4e49-8dd8-8f325aa4539a.png)
-
-## Demo
+## Examplar results
 
 In the results presented below **120 frames** are generated from a **single** reference image.
 
@@ -63,6 +57,12 @@ Several outputs can be obtained from the same reference image. See below for an 
 <p align="center">
 <img src="media/demo_img/paint.png" alt="drawing" width="170"/><img src="media/demo_img/img2seq_rnn_1/moving_paint1.gif" alt="drawing" width="119"/><img src="media/demo_img/img2seq_rnn_2/moving_paint1.gif" alt="drawing" width="119"/><img src="media/demo_img/statue.png" alt="drawing" width="170"/><img src="media/demo_img/img2seq_rnn_1/moving_statue2.gif" alt="drawing" width="119"/><img src="media/demo_img/img2seq_rnn_2/moving_statue2.gif" alt="drawing" width="119"/>
 </p>
+
+## Architecture overview
+
+SUHMo is a framework that can be implemented in several forms. Below are the proposed LSTM and Transformer variants of our model.
+
+![uncond_head_mot](https://user-images.githubusercontent.com/36541517/197400808-c6094353-4bb7-4e49-8dd8-8f325aa4539a.png)
 
 ## Execution & Pre-trained models
 Incoming...
