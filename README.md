@@ -17,7 +17,8 @@ In the results presented below **120 frames** are generated from a **single** re
 <img src="media/git_demo_vis/rnn/dem_rnn_base_try3_33_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_41_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_45_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_49_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_base_try3_38_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/rnn/dem_rnn_cf_8_6_colors.gif" alt="drawing" width="200"/>
  </p>
 
-### SUHMo-Transformer (Training on VoxCeleb2)
+### SUHMo-Transformer (Training on VoxCeleb2) 
+\~\~ In Vox2 preprocessing _face are centered_, hence the suppression of head translation \~\~
 
 <p align="center">
 <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_7_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_22_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_24_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_26_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_28_colors.gif" alt="drawing" width="200"/> <img src="media/git_demo_vis/transfo/dem_transf_vox_sub0.1_dec1050_1_29_colors.gif" alt="drawing" width="200"/>
